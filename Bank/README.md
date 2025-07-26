@@ -38,6 +38,7 @@ Bank/
 │ └── Logger.cs # Colored message system
 ├── Entities/
   └── Manager.cs # Core banking operations
+```
 
 
 ---
@@ -65,3 +66,4 @@ Enter withdrawal amount: 50
 
 [Logger]: Withdrawal successful!
 Account data: Account 123, John Doe, Balance: $145.00
+```
