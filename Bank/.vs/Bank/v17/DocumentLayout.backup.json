@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ws-c#\\Curso\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{661FF6A4-E822-4430-819F-C8DA42E4FE34}|Bank\\Bank.csproj|d:\\ws-c#\\curso\\bank\\bank\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661FF6A4-E822-4430-819F-C8DA42E4FE34}|Bank\\Bank.csproj|solutionrelative:bank\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661FF6A4-E822-4430-819F-C8DA42E4FE34}|Bank\\Bank.csproj|d:\\ws-c#\\curso\\bank\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661FF6A4-E822-4430-819F-C8DA42E4FE34}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661FF6A4-E822-4430-819F-C8DA42E4FE34}|Bank\\Bank.csproj|d:\\ws-c#\\curso\\bank\\bank\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661FF6A4-E822-4430-819F-C8DA42E4FE34}|Bank\\Bank.csproj|solutionrelative:bank\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661FF6A4-E822-4430-819F-C8DA42E4FE34}|Bank\\Bank.csproj|d:\\ws-c#\\curso\\bank\\bank\\utils\\initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661FF6A4-E822-4430-819F-C8DA42E4FE34}|Bank\\Bank.csproj|solutionrelative:bank\\utils\\initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 319,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ws-c#\\Curso\\Bank\\Bank\\Program.cs",
+              "RelativeDocumentMoniker": "Bank\\Program.cs",
+              "ToolTip": "D:\\ws-c#\\Curso\\Bank\\Bank\\Program.cs",
+              "RelativeToolTip": "Bank\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:08:56.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\ws-c#\\Curso\\Bank\\Bank\\Entities\\Manager.cs",
+              "RelativeDocumentMoniker": "Bank\\Entities\\Manager.cs",
+              "ToolTip": "D:\\ws-c#\\Curso\\Bank\\Bank\\Entities\\Manager.cs",
+              "RelativeToolTip": "Bank\\Entities\\Manager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:10:39.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Initialize.cs",
+              "DocumentMoniker": "D:\\ws-c#\\Curso\\Bank\\Bank\\Utils\\Initialize.cs",
+              "RelativeDocumentMoniker": "Bank\\Utils\\Initialize.cs",
+              "ToolTip": "D:\\ws-c#\\Curso\\Bank\\Bank\\Utils\\Initialize.cs",
+              "RelativeToolTip": "Bank\\Utils\\Initialize.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:57:07.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\ws-c#\\Curso\\Bank\\Bank\\Utils\\Logger.cs",
+              "RelativeDocumentMoniker": "Bank\\Utils\\Logger.cs",
+              "ToolTip": "D:\\ws-c#\\Curso\\Bank\\Bank\\Utils\\Logger.cs",
+              "RelativeToolTip": "Bank\\Utils\\Logger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:30:02.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
