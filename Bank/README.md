@@ -29,6 +29,7 @@ This is a simple **C# console application** that simulates basic operations of a
 
 ## 🧠 Project Structure
 
+```bash
 Bank/
 │
 ├── Program.cs # Main application loop
